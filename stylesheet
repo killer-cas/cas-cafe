@@ -1,0 +1,29 @@
+ <style>
+ body {
+  background-image: url("https://i.pinimg.com/564x/e4/14/44/e41444abcb3dd6f00b455abd3cd3097b.jpg");
+  font-family: Verdana;
+  object-fit: fill;
+ }
+
+P {
+  color: white;
+}
+
+a:links {
+  color: pink;
+}
+
+a:active {
+  color:orange;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover{
+  color:blue;
+}
+
+
+ </style>
